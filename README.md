@@ -10,3 +10,8 @@ GitHub Jira Integration using Python Flask | DevOps Project
 # Complete Execution Workflow Diagram
 ![1718804308517](https://github.com/user-attachments/assets/7a833fac-82d5-4769-8376-804df791f23d)
 
+
+# Output
+![image](https://github.com/user-attachments/assets/221ca823-e270-4bf8-8623-26289f4a90ec)
+
+
