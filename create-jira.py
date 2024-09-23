@@ -6,9 +6,9 @@ import json
 
 url = "https://swapniljira.atlassian.net/rest/api/3/issue"
 
-API_TOKEN = "ATATT3xFfGF0OAwWBy1NmEVvzfKUDTMUSuiUSftFbxU0VA_uN3xDbvTGLWW57a3SRAInLcHEgJCPCG6_pdTe9DKhp6UPWFh1WxNgzrP0J1IsmnNE9Z55wbfMS9YvLmX09SjLnB6Dl9Y98UxqHd7YXl7I2X4Q2y9ALiarTgQjdlW0tp-E6Z_guRc=34117EDB"
+API_TOKEN = ""  #replace with your token from JIRA
 
-auth = HTTPBasicAuth("er.swapnil.singh93@gmail.com", API_TOKEN)
+auth = HTTPBasicAuth("your-email", API_TOKEN)
 
 headers = {
   "Accept": "application/json",
