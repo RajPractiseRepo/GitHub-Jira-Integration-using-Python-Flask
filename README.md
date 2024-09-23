@@ -15,3 +15,7 @@ GitHub Jira Integration using Python Flask | DevOps Project
 ![image](https://github.com/user-attachments/assets/221ca823-e270-4bf8-8623-26289f4a90ec)
 
 
+![image](https://github.com/user-attachments/assets/54082f14-1020-4e9a-a81b-f8974e0f7d53)
+
+
+
